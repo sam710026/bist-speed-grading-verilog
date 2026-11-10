@@ -1,0 +1,15 @@
+.build/
+build/
+logs/
+waves/
+max/
+__pycache__/
+*.pyc
+ucli.key
+csrc/
+simv*
+*.daidir/
+*.vcd
+*.fsdb
+*.vpd
+DVEfiles/

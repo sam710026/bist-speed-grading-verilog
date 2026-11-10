@@ -1,0 +1,4 @@
+test	result	detail
+adder6	PASS	7 directed arithmetic comparisons
+bist6	PASS	signature=0x4d; PERIOD_PS=10000; bench_cycles=16
+bist12	PASS	signature=0x458; PERIOD_PS=10000; bench_cycles=16

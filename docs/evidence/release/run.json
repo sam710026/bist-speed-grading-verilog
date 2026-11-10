@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-11",
+  "date_timezone": "Asia/Taipei",
+  "scope": "RTL simulation only; no SDF annotation or timing checks on a mapped netlist",
+  "command": "python3 scripts/run_tests.py",
+  "sources": {
+    "src/bist_adder.v": "0615279eb741b1a5f26f7233800fe0a69ae490539c4f002424b076dd8ff298a1",
+    "tests/original/tb_adder6.v": "68b32d9b6c600377c5c9a654f676039936c35244bfd618a3f28db372c8548a19",
+    "tests/original/tb_bist_adder6.v": "aa626ea48ab490eac3ff9fcaa6e36b33ad55e3a884dd797d18ed5a99c5541d19",
+    "tests/original/tb_bist_adder12.v": "ee68a72717650417b11909762901099846950c3f0ddf74f0c0dffc3695eb0d68"
+  }
+}

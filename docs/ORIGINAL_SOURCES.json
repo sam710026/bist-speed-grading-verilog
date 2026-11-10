@@ -1,0 +1,46 @@
+{
+  "110070016_蕭以勝_HW3_Option2_BISG_Adder_Report.pdf": {
+    "path": "docs/report/BISG_Adder_Report.pdf",
+    "sha256": "9f8d21e713ea5fec7428e1dff229ae1c2948b44117c58bb26f6cfd4c456c4538"
+  },
+  "bist_adder.v": {
+    "path": "src/bist_adder.v",
+    "sha256": "0615279eb741b1a5f26f7233800fe0a69ae490539c4f002424b076dd8ff298a1"
+  },
+  "homework.3.Option2.2026.pdf": {
+    "path": "docs/spec/homework.3.Option2.2026.pdf",
+    "sha256": "3e60fce97451d814f30767d4e597e06658d1cf13d8cda5f9b8d9441afa9ccf93"
+  },
+  "sim_gate12.sh": {
+    "path": "scripts/original/sim_gate12.sh",
+    "sha256": "54c0607219e96ff48fd075797bb1523ae4c03d142929e802d5fc5d328f0b406d"
+  },
+  "sim_gate6.sh": {
+    "path": "scripts/original/sim_gate6.sh",
+    "sha256": "3db96e0332997e10e658582fd8738b11f1fd2451704a6fbd67af01786827dcc3"
+  },
+  "sweep_syn_sim.sh": {
+    "path": "scripts/original/sweep_syn_sim.sh",
+    "sha256": "056a1e758a85d804c5c5da4e1dd0b78d344770e6580afb4ecee3f91ad2cbb297"
+  },
+  "syn12.sh": {
+    "path": "scripts/original/syn12.sh",
+    "sha256": "b76faa60183377921016c3610ca1f00f25117b4738880606da52d95f9647194f"
+  },
+  "syn6.sh": {
+    "path": "scripts/original/syn6.sh",
+    "sha256": "2098ca9a858391e3c5769c80736a27dfee0f3e8c2e15aab0387016a319fc8e2d"
+  },
+  "tb_adder6.v": {
+    "path": "tests/original/tb_adder6.v",
+    "sha256": "68b32d9b6c600377c5c9a654f676039936c35244bfd618a3f28db372c8548a19"
+  },
+  "tb_bist_adder12.v": {
+    "path": "tests/original/tb_bist_adder12.v",
+    "sha256": "ee68a72717650417b11909762901099846950c3f0ddf74f0c0dffc3695eb0d68"
+  },
+  "tb_bist_adder6.v": {
+    "path": "tests/original/tb_bist_adder6.v",
+    "sha256": "aa626ea48ab490eac3ff9fcaa6e36b33ad55e3a884dd797d18ed5a99c5541d19"
+  }
+}
